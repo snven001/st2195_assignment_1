@@ -1,0 +1,8 @@
+# R Markdown File
+## For ST 2195 Assignment 1
+
+Code:
+```{r}
+for (var in 1:10)
+  print (var)
+```
