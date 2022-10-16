@@ -2,7 +2,18 @@
 ## For ST 2195 Assignment 1
 
 Code:
+
+Print integers without loop
+
+```{r}
+
+print(1:10)
+```
+
+Print integers with for loop
+
 ```{r}
 for (var in 1:10)
   print (var)
 ```
+
